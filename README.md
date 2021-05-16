@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi 👋, I'm Harshit Sharma
+### :school_satchel: A school going student who has interest in programming world!
 
-<!--
-**harshitsharma08/harshitsharma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning HTML
+- 💬 Ask me about Slugterra Cartoon 
+- ⚡ Fun fact: I love to gain practical knowledge instead of theory :satisfied:.And I love to make drawings of cartoons :grinning:
+### Languages (Learning):
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white "HTML")
 
-Here are some ideas to get you started:
+### IDE (Learning):
+![SUBLIME](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :chart_with_upwards_trend: Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsharma08&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
+
